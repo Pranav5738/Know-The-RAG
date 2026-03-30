@@ -6,3 +6,5 @@ pymupdf
 sentence-transformers
 vectorstore
 faiss-cpu
+langchain_gemini
+langgraph

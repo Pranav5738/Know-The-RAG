@@ -14,5 +14,6 @@ dependencies = [
     "pypdf>=6.9.2",
     "sentence-transformers>=5.3.0",
     "tqdm>=4.67.3",
+    "typesense>=2.0.0",
     "vectorstore>=0.0.0",
 ]
